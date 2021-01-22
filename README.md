@@ -27,13 +27,13 @@
 * [Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/FeedForward%20Neural%20Network/Blob%20Data/BlobData.ipynb)
 * [Circle Data](https://github.com/anubhavgupta1/Udacity/blob/main/FeedForward%20Neural%20Network/Circle%20Data/CircleData.ipynb)
 * [Moon Data](https://github.com/anubhavgupta1/Udacity/blob/main/FeedForward%20Neural%20Network/Moon%20Data/MoonData.ipynb)
-## Module 6 : FeedForward Neural Network --> Generic Class
+## Module 6 : Generic Class
 * [Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/FeedForward%20Neural%20Network/Generic%20Class/Blob%20Data/BlobData.ipynb)
 * [Circle Data](https://github.com/anubhavgupta1/Udacity/blob/main/FeedForward%20Neural%20Network/Generic%20Class/Circle%20Data/CircleData.ipynb)
 * [Moon Data](https://github.com/anubhavgupta1/Udacity/blob/main/FeedForward%20Neural%20Network/Generic%20Class/Moon%20Data/MoonData.ipynb)
-## Module 7 : FeedForward Neural Network --> Generic Class --> Multiclass Classification
+## Module 7 : Multiclass Classification
 * [Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/FeedForward%20Neural%20Network/Generic%20Class/Multi%20Class%20Classification/Blob%20Data/BlobData.ipynb)
-## Module 8 : FeedForward Neural Network --> Vectorization
+## Module 8 : Vectorization
 * [Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/FeedForward%20Neural%20Network/Vectorization/Blob%20Data/BlobData.ipynb)
 * [Breast Cancer Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/FeedForward%20Neural%20Network/Vectorization/Breast%20Cancer/BreastCancer.ipynb)
 
