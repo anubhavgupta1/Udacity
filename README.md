@@ -1,4 +1,6 @@
 # Udacity
+## Module 0 : Numpy
+* Numpy Refresher : [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/Numpy%20Refresher/Matrix_Math_and_NumPy_Refresher.ipynb)
 ## Module 1 :  McCulloch Pitts Neuron
 * Breast Cancer Dataset : [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Breast%20Cancer/BreastCancer.ipynb)
 * IRIS Dataset : [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Iris/IrisDataset.ipynb)
