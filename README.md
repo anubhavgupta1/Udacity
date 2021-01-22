@@ -1,12 +1,12 @@
 # Udacity
 ## Module 0 : Numpy
-* Numpy Refresher : [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/Numpy%20Refresher/Matrix_Math_and_NumPy_Refresher.ipynb)
+* [Numpy Refresher](https://github.com/anubhavgupta1/Udacity/blob/main/Numpy%20Refresher/Matrix_Math_and_NumPy_Refresher.ipynb)
 ## Module 1 :  McCulloch Pitts Neuron
-* Breast Cancer Dataset : [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Breast%20Cancer/BreastCancer.ipynb)
-* IRIS Dataset : [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Iris/IrisDataset.ipynb)
-* Liver Patient Diagnosis : [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Liver%20Patient%20Diagnosis/LiverPatientDiagnosis.ipynb)
-* Mobile Classification : [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Mobile%20Classification/MobileClassification.ipynb)
-* Student Admission : [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Student%20Admission/StudentAdmission.ipynb)
+* [Breast Cancer Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Breast%20Cancer/BreastCancer.ipynb)
+* [IRIS Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Iris/IrisDataset.ipynb)
+* [Liver Patient Diagnosis](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Liver%20Patient%20Diagnosis/LiverPatientDiagnosis.ipynb)
+* [Mobile Classification](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Mobile%20Classification/MobileClassification.ipynb)
+* [Student Admission](https://github.com/anubhavgupta1/Udacity/blob/main/McCulloch%20Pitts%20Neuron/Student%20Admission/StudentAdmission.ipynb)
 
 ## Module 2 :  Perceptron Neuron
 * Breast Cancer Dataset : [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/Perceptron/Breast%20Cancer/BreastCancer.ipynb)
