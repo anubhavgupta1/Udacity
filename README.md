@@ -36,4 +36,8 @@
 ## Module 8 : Vectorization
 * [Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/FeedForward%20Neural%20Network/Vectorization/Blob%20Data/BlobData.ipynb)
 * [Breast Cancer Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/FeedForward%20Neural%20Network/Vectorization/Breast%20Cancer/BreastCancer.ipynb)
-
+## Module 9 : [Gradient Descent](https://github.com/anubhavgupta1/Udacity/blob/main/Gradient%20Descent/GradientDescent.ipynb)
+## Module 10 : BackPropagation
+* [Single Weight Visualization](https://github.com/anubhavgupta1/Udacity/blob/main/Back%20Propagation/Single%20Weight%20Visualizations/SingleWeight.ipynb)
+* [Multiple Weights Visualization](https://github.com/anubhavgupta1/Udacity/blob/main/Back%20Propagation/Multiple%20Weight%20and%20Neurons%20Visualizations/MultipleWeights.ipynb)
+* [Multiple Class Classification Visualization](https://github.com/anubhavgupta1/Udacity/blob/main/Back%20Propagation/Visualization%20of%20Multiple%20Class%20Classification/Visualization.ipynb)
