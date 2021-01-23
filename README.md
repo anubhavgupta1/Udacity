@@ -106,3 +106,7 @@
 * [Character RNN](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Char%20RNN/anna.ipynb)
 * [Simple LSTMs](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Simple%20LSTMs/Name2Lang.ipynb)
 * [Simple GRUs](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Simple%20GRU/Name2Lang.ipynb)
+## Module 20 : Pytorch Recurrent Neural Networks : Sequence Batching
+* [RNN](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Sequence%20Batching/Simple/Name2Lang.ipynb)
+* [LSTM](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Sequence%20Batching/LSTMs/Name2Lang.ipynb)
+* [GRU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Sequence%20Batching/GRUs/Name2Lang.ipynb)
