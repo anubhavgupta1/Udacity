@@ -121,3 +121,8 @@
 ## Module 23 :  Pytorch RNNs' AutoEncoders : Machine Transliteration English to Hindi
 * [Without Attention](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/RNN/Without%20Attention/English2Hindi.ipynb)
 * [With Attention](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/RNN/With%20Attention/English2Hindi.ipynb)
+# Projects
+* [Pytorch Style Transfer](https://github.com/anubhavgupta1/Udacity/blob/main/Projects/Style%20Transfer/Style.ipynb)
+* [Tensorflow Style Transfer](https://github.com/anubhavgupta1/Udacity/blob/main/Projects/Style%20Transfer/TensorFlow/Style.ipynb)
+* [Yolo Object Detection V3](https://github.com/anubhavgupta1/Udacity/blob/main/Projects/Yolo%20V3/Yolo.ipynb)
+* [Machine Transliteration : English to Hindi](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/RNN/With%20Attention/English2Hindi.ipynb)
