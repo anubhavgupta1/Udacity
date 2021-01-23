@@ -82,16 +82,21 @@
 * [Softplus](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Softplus/MNIST.ipynb)
 * [Tanh Shrink](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Tanh%20Shrink/MNIST.ipynb)
 * [Tanh](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Tanh/MNIST.ipynb)
-## Module 15 : Pytorch : Embeddings and Word2Vec 
+## Module 15 : Pytorch Deep Neural Network AutoEncoders
+* [Simple Linear AutoEncoder](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/DNN/Simple%20Linear%20Autoencoders/MNIST.ipynb)
+* [Sparse AutoEnoder](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/DNN/Sparse%20Autoencoders/MNIST.ipynb)
+* [Stacked AutoEncoder](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/DNN/Stacked%20Autoencoders/MNIST.ipynb)
+* [Denoising AutoEncoder](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/DNN/Denoising%20Autoencoders/MNIST.ipynb)
+## Module 16 : Pytorch : Embeddings and Word2Vec 
 * [Skip Gram Solution](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/word2vec/SkipGram/SkipGram.ipynb)
 * [Negative Sampling Solution](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/word2vec/Negative%20Sampling/NegativeSampling.ipynb)
-## Module 16 : Pytorch : Convolution Neural Networks
+## Module 17 : Pytorch : Convolution Neural Networks
 * [Basics : CIFAR10](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Basics/CIFAR10.ipynb)
 * [Feature Visualization](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Visualizing%20CNNs/Feature%20Visualization/FV.ipynb)
-## Module 17 : Pytorch : Deep Convolution Neural Networks
+## Module 18 : Pytorch : Deep Convolution Neural Networks
 * [LeNet Without Cuda](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/LeNet%20Without%20Cuda/LeNet.ipynb)
 * [Template CIFAR10](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/Template%20Cifar10%20Classification/Cifar10.ipynb)
-## Module 18 : Pytorch : Deep Convolution Neural Networks : Model Zoo
+## Module 19 : Pytorch : Deep Convolution Neural Networks : Model Zoo
 * [Batch Normalization](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/Batch%20Norm/BN.ipynb)
 * [Dropout](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/Dropout/Dropout.ipynb)
 * [LeNet](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/LeNet/LeNet.ipynb)
@@ -100,13 +105,19 @@
 * [Checkpointing VGG](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/Checkpointing%20VGG/VGG.ipynb)
 * [GoogleNet](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/GoogleNet/GoogleNet.ipynb)
 * [ResNet](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/Resnet/Resnet.ipynb)
-## Module 19 : Pytorch Recurrent Neural Networks
+## Module 20 :  Pytorch Convlutional Neural Network AutoEncoders
+* [Simple](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/CNN/Simple%20Convolutional%20Autoencoder/CIFAR10.ipynb)
+* [Denoising](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/CNN/Denoising%20Autoencoders/MNIST.ipynb)
+## Module 21 : Pytorch Recurrent Neural Networks
 * [Time Series Prediction](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Time%20Series%20Prediction/simple.ipynb)
 * [Simple RNN](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Simple/Name2Lang.ipynb)
 * [Character RNN](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Char%20RNN/anna.ipynb)
 * [Simple LSTMs](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Simple%20LSTMs/Name2Lang.ipynb)
 * [Simple GRUs](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Simple%20GRU/Name2Lang.ipynb)
-## Module 20 : Pytorch Recurrent Neural Networks : Sequence Batching
+## Module 22 : Pytorch Recurrent Neural Networks : Sequence Batching
 * [RNN](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Sequence%20Batching/Simple/Name2Lang.ipynb)
 * [LSTM](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Sequence%20Batching/LSTMs/Name2Lang.ipynb)
 * [GRU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Sequence%20Batching/GRUs/Name2Lang.ipynb)
+## Module 23 :  Pytorch Recurrent Neural Network AutoEncoders : Machine Transliteration English to Hindi
+* [Without Attention](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/RNN/Without%20Attention/English2Hindi.ipynb)
+* [With Attention](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/RNN/With%20Attention/English2Hindi.ipynb)
