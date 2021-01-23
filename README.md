@@ -56,6 +56,10 @@
 * [Cross Entropy Loss : Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cross%20Entropy%20Loss/Blob%20Data/BlobData.ipynb)
 * [Cross Entropy Loss : MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cross%20Entropy%20Loss/MNIST%20Data/MNIST.ipynb)
 * [Batch Normalisation : MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Batch%20Normalisation/BN.ipynb)
+## Module 12 : Pyorch DNNs Cuda Support
+* [Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/Blob%20Data/BlobData.ipynb)
+* [MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Classification/MNIST.ipynb)
+* [MNIST Dash](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Classification%20Dash/MNIST.ipynb)
 ## Module 14 : Pyorch DNNs Cuda Support : Activations
 * [CELU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20CELU/MNIST.ipynb)
 * [ELU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20ELU/MNIST.ipynb)
