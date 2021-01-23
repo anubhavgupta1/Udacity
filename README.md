@@ -100,3 +100,9 @@
 * [Checkpointing VGG](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/Checkpointing%20VGG/VGG.ipynb)
 * [GoogleNet](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/GoogleNet/GoogleNet.ipynb)
 * [ResNet](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/Resnet/Resnet.ipynb)
+## Module 19 : Pytorch Recurrent Neural Networks
+* [Time Series Prediction](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Time%20Series%20Prediction/simple.ipynb)
+* [Simple RNN](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Simple/Name2Lang.ipynb)
+* [Character RNN](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Char%20RNN/anna.ipynb)
+* [Simple LSTMs](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Simple%20LSTMs/Name2Lang.ipynb)
+* [Simple GRUs](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Simple%20GRU/Name2Lang.ipynb)
