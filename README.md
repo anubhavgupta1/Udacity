@@ -41,3 +41,7 @@
 * [Single Weight Visualization](https://github.com/anubhavgupta1/Udacity/blob/main/Back%20Propagation/Single%20Weight%20Visualizations/SingleWeight.ipynb)
 * [Multiple Weights Visualization](https://github.com/anubhavgupta1/Udacity/blob/main/Back%20Propagation/Multiple%20Weight%20and%20Neurons%20Visualizations/MultipleWeights.ipynb)
 * [Multiple Class Classification Visualization](https://github.com/anubhavgupta1/Udacity/blob/main/Back%20Propagation/Visualization%20of%20Multiple%20Class%20Classification/Visualization.ipynb)
+## Module 10 : Optimization Algorithms
+* [Sigmoid Neuron 1](https://github.com/anubhavgupta1/Udacity/blob/main/Optimization%20Algorithms/Sigmoid%20Neuron/Sigmoid.ipynb)
+* [Sigmoid Neuron 2](https://github.com/anubhavgupta1/Udacity/blob/main/Optimization%20Algorithms/Sigmoid%20Neuron/Sigmoid2.ipynb)
+* [Vectorized Optimization Algos](https://github.com/anubhavgupta1/Udacity/blob/main/Optimization%20Algorithms/Vectorization/Vectorization.ipynb)
