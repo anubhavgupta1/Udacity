@@ -56,10 +56,10 @@
 * [Cross Entropy Loss : Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cross%20Entropy%20Loss/Blob%20Data/BlobData.ipynb)
 * [Cross Entropy Loss : MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cross%20Entropy%20Loss/MNIST%20Data/MNIST.ipynb)
 * [Batch Normalisation : MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Batch%20Normalisation/BN.ipynb)
-## Module 12 : Pyorch DNNs Cuda Support
+## Module 13 : Pyorch DNNs Cuda Support
 * [Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/Blob%20Data/BlobData.ipynb)
 * [MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Classification/MNIST.ipynb)
-* [MNIST Dash](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Classification%20Dash/MNIST.ipynb)
+* [MNIST Dataset Dash](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Classification%20Dash/MNIST.ipynb)
 ## Module 14 : Pyorch DNNs Cuda Support : Activations
 * [CELU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20CELU/MNIST.ipynb)
 * [ELU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20ELU/MNIST.ipynb)
@@ -82,3 +82,21 @@
 * [Softplus](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Softplus/MNIST.ipynb)
 * [Tanh Shrink](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Tanh%20Shrink/MNIST.ipynb)
 * [Tanh](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Tanh/MNIST.ipynb)
+## Module 15 : Pytorch : Embeddings and Word2Vec 
+* [Skip Gram Solution](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/word2vec/SkipGram/SkipGram.ipynb)
+* [Negative Sampling Solution](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/word2vec/Negative%20Sampling/NegativeSampling.ipynb)
+## Module 16 : Pytorch : Convolution Neural Networks
+* [Basics : CIFAR10](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Basics/CIFAR10.ipynb)
+* [Feature Visualization](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Visualizing%20CNNs/Feature%20Visualization/FV.ipynb)
+## Module 17 : Pytorch : Deep Convolution Neural Networks
+* [LeNet Without Cuda](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/LeNet%20Without%20Cuda/LeNet.ipynb)
+* [Template CIFAR10](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/Template%20Cifar10%20Classification/Cifar10.ipynb)
+## Module 18 : Pytorch : Deep Convolution Neural Networks : Model Zoo
+* [Batch Normalization](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/Batch%20Norm/BN.ipynb)
+* [Dropout](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/Dropout/Dropout.ipynb)
+* [LeNet](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/LeNet/LeNet.ipynb)
+* [VGG](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/VGG/%20VGG.ipynb)
+* [Freeing the layers of VGG](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/Freezing%20Layers%20of%20VGG/%20VGG.ipynb)
+* [Checkpointing VGG](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/Checkpointing%20VGG/VGG.ipynb)
+* [GoogleNet](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/GoogleNet/GoogleNet.ipynb)
+* [ResNet](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/CNNs/Deep%20Architectures/CUDA/Model%20Zoo/Resnet/Resnet.ipynb)
