@@ -56,25 +56,25 @@
 * [Cross Entropy Loss : Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cross%20Entropy%20Loss/Blob%20Data/BlobData.ipynb)
 * [Cross Entropy Loss : MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cross%20Entropy%20Loss/MNIST%20Data/MNIST.ipynb)
 * [Batch Normalisation : MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Batch%20Normalisation/BN.ipynb)
-## Module 13 : Pyorch DNNs Cuda Support
-* [CELU]
-* [ELU]
-* [GELU]
-* [Hard Swish]
-* [Hard Sigmoid]
-* [Hard Tanh]
-* [Hard Srink]
-* [Leaky Relu]
-* [Log Sigmoid]
-* [PRELU]
-* [RELU6]
-* [RRELU]
-* [ReLu]
-* [Selu]
-* [Silu]
-* [Sigmoid]
-* [Soft Shrink]
-* [Soft Sign]
-* [Softplus]
-* [Tanh Shrink]
-* [Tanh]
+## Module 14 : Pyorch DNNs Cuda Support : Activations
+* [CELU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20CELU/MNIST.ipynb)
+* [ELU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20ELU/MNIST.ipynb)
+* [GELU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20GELU/MNIST.ipynb)
+* [Hard Swish](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Hard%20Swish/MNIST.ipynb)
+* [Hard Sigmoid](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20HardSigmoid/MNIST.ipynb)
+* [Hard Tanh](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20HardTanh/MNIST.ipynb)
+* [Hard Srink](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Hardshrink/MNIST.ipynb)
+* [Leaky Relu](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Leaky%20RELU/MNIST.ipynb)
+* [Log Sigmoid](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Log%20Sigmoid/MNIST.ipynb)
+* [PRELU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20PRELU/MINIST.ipynb)
+* [RELU6](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20RELU6/MNIST.ipynb)
+* [RRELU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20RRELU/MNIST.ipynb)
+* [ReLu](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20ReLU/MNIST.ipynb)
+* [Selu](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20SELU/MNIST.ipynb)
+* [Silu](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20SiLU/MNIST.ipynb)
+* [Sigmoid](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Sigmoid/MNIST.ipynb)
+* [Soft Shrink](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Soft%20Shrink/MNIST.ipynb)
+* [Soft Sign](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Soft%20Sign/MNIST.ipynb)
+* [Softplus](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Softplus/MNIST.ipynb)
+* [Tanh Shrink](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Tanh%20Shrink/MNIST.ipynb)
+* [Tanh](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cuda%20Support/MINIST%20Data%20Tanh/MNIST.ipynb)
