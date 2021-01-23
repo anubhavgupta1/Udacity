@@ -45,3 +45,14 @@
 * [Sigmoid Neuron 1](https://github.com/anubhavgupta1/Udacity/blob/main/Optimization%20Algorithms/Sigmoid%20Neuron/Sigmoid.ipynb)
 * [Sigmoid Neuron 2](https://github.com/anubhavgupta1/Udacity/blob/main/Optimization%20Algorithms/Sigmoid%20Neuron/Sigmoid2.ipynb)
 * [Vectorized Optimization Algos](https://github.com/anubhavgupta1/Udacity/blob/main/Optimization%20Algorithms/Vectorization/Vectorization.ipynb)
+## Module 11 : Pytorch Basics
+* [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Basics/Torch.ipynb)
+## Pytorch Deep Neural Networks
+* [Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Blob%20Data/BlobData.ipynb)
+* [MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/MNIST%20Data/MNIST.ipynb)
+* [NN Parameter : Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/NN%20Parameter/Blob%20Data/BlobData.ipynb)
+* [NN Sequential : Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/NN%20Sequential/Blob%20Data/BlobData.ipynb)
+* [Optim : Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Optim/Blob%20Data/BlobData.ipynb)
+* [Cross Entropy Loss : Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cross%20Entropy%20Loss/Blob%20Data/BlobData.ipynb)
+* [Cross Entropy Loss : MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Cross%20Entropy%20Loss/MNIST%20Data/MNIST.ipynb)
+* [Batch Normalisation : MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Batch%20Normalisation/BN.ipynb)
