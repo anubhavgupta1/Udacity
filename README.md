@@ -118,6 +118,6 @@
 * [RNN](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Sequence%20Batching/Simple/Name2Lang.ipynb)
 * [LSTM](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Sequence%20Batching/LSTMs/Name2Lang.ipynb)
 * [GRU](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/RNNs/Sequence%20Batching/GRUs/Name2Lang.ipynb)
-## Module 23 :  Pytorch Recurrent Neural Network AutoEncoders : Machine Transliteration English to Hindi
+## Module 23 :  Pytorch RNNs' AutoEncoders : Machine Transliteration English to Hindi
 * [Without Attention](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/RNN/Without%20Attention/English2Hindi.ipynb)
 * [With Attention](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Autoencoders/RNN/With%20Attention/English2Hindi.ipynb)
