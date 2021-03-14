@@ -46,7 +46,8 @@
 * [Sigmoid Neuron 2](https://github.com/anubhavgupta1/Udacity/blob/main/Optimization%20Algorithms/Sigmoid%20Neuron/Sigmoid2.ipynb)
 * [Vectorized Optimization Algos](https://github.com/anubhavgupta1/Udacity/blob/main/Optimization%20Algorithms/Vectorization/Vectorization.ipynb)
 ## Module 11 : Pytorch Basics
-* [Notebook](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Basics/Torch.ipynb)
+* [Notebook1](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Basics/Torch.ipynb)
+* [Notebook2](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/Basics/Torch2.ipynb)
 ## Module 12 : Pytorch Deep Neural Networks
 * [Blob Data](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/Blob%20Data/BlobData.ipynb)
 * [MNIST Dataset](https://github.com/anubhavgupta1/Udacity/blob/main/Frameworks/Pytorch/DNNs/MNIST%20Data/MNIST.ipynb)
